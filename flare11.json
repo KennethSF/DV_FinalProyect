@@ -1,5 +1,5 @@
   {
-    "name" : "Generos mas populares"
+    "name" : "Generos mas populares",
     "children": [
       "nombre": "Metal",
       "popularidad": 50,
@@ -7,7 +7,7 @@
         {
           "nombre": "Metallica",
           "popularidad": 50,
-          "canciones": [
+          "children": [
             {
               "nombre": "The unforgiven",
               "popularidad": 60
