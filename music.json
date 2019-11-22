@@ -1,84 +1,16 @@
 {
-    "nombre": "Metal",
-    "popularidad": 50,
-    "artistas": [
-      {
-        "nombre": "Metallica",
-        "popularidad": 50,
-        "canciones": [
-          {
-            "nombre": "The unforgiven",
-            "popularidad": 60
-          },
-          {
-            "nombre": "The unforgiven II",
-            "popularidad": 30
-          },
-          {
-            "nombre": "The unforgiven III",
-            "popularidad": 10
-          }
-        ]
-      },
-      {
-        "nombre": "Avenged Sevenfold",
-        "popularidad": 50,
-        "canciones": [
-          {
-            "nombre": "Hail to the king",
-            "popularidad": 60
-          },
-          {
-            "nombre": "Nightmare",
-            "popularidad": 30
-          },
-          {
-            "nombre": "Seize the day",
-            "popularidad": 10
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "nombre": "Pop",
-    "popularidad": 50,
-    "artistas": [
-      {
-        "nombre": "Un artista de pop",
-        "popularidad": 50,
-        "canciones": [
-          {
-            "nombre": "Cancion de pop",
-            "popularidad": 60
-          },
-          {
-            "nombre": "Cancion de pop",
-            "popularidad": 30
-          },
-          {
-            "nombre": "Cancion de pop",
-            "popularidad": 10
-          }
-        ]
-      },
-      {
-        "nombre": "Otro artista de pop",
-        "popularidad": 50,
-        "canciones": [
-          {
-            "nombre": "Cancion de pop",
-            "popularidad": 60
-          },
-          {
-            "nombre": "Cancion de pop",
-            "popularidad": 30
-          },
-          {
-            "nombre": "Cancion de pop",
-            "popularidad": 10
-          }
-        ]
-      }
-    ]
-  }
+    "name": "TOPICS", "children": [{
+        "name": "Topic A",
+        "children": [{"name": "Sub A1", "size": 5, "text": "A story", "sentiment": 0.8, "source": "dictionary"},
+            {"name": "Sub A2", "size": 5, "text": "A note", "sentiment": 0.3, "source": "dictionary"}]
+    }, {
+        "name": "Topic B",
+        "children": [{"name": "Sub B1", "size": 5, "text": "A vignette", "sentiment": 0.5, "source": "newspaper"},
+            {"name": "Sub B2", "size": 3, "text": "A tall-tale", "sentiment": 0.2, "source": "friend"},
+            {"name": "Sub B3", "size": 4, "text": "A joke", "sentiment": 0.8, "source": "email"}]
+    }, {
+        "name": "Topic C",
+        "children": [{"name": "Sub A1", "size": 4, "text": "A narrative", "sentiment": 0.2, "source": "newspaper"},
+            {"name": "Sub A2", "size": 4, "text": "A chronology", "sentiment": 0.3, "source": "email"}]
+    }]
+}
