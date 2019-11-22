@@ -1,0 +1,15 @@
+{
+ "nombre": "flare",
+ "hijo": [
+  {
+   "nombre": "analytics",
+   "hijo": [
+    {
+     "name": "cluster",
+     "hijo": [
+      {"nombre": "AgglomerativeCluster", "size": 3938},
+      {"nombre": "CommunityStructure", "size": 3812},
+      {"nombre": "HierarchicalCluster", "size": 6714},
+      {"nombre": "MergeEdge", "size": 743}
+     ]
+}
