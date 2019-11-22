@@ -1,6 +1,7 @@
   {
     "name" : "Generos mas populares",
     "children": [
+     {
       "nombre": "Metal",
       "popularidad": 50,
       "children": [
@@ -83,5 +84,6 @@
           ]
         }
       ]
+    }
     ]
   }
