@@ -1,82 +1,82 @@
 {
-    nombre: "Metal",
-    popularidad: 50,
-    artistas: [
+    "nombre": "Metal",
+    "popularidad": 50,
+    "artistas": [
       {
-        nombre: "Metallica",
-        popularidad: 50,
-        canciones: [
+        "nombre": "Metallica",
+        "popularidad": 50,
+        "canciones": [
           {
-            nombre: "The unforgiven",
-            popularidad: 60
+            "nombre": "The unforgiven",
+            "popularidad": 60
           },
           {
-            nombre: "The unforgiven II",
-            popularidad: 30
+            "nombre": "The unforgiven II",
+            "popularidad": 30
           },
           {
-            nombre: "The unforgiven III",
-            popularidad: 10
+            "nombre": "The unforgiven III",
+            "popularidad": 10
           }
         ]
       },
       {
-        nombre: "Avenged Sevenfold",
-        popularidad: 50,
-        canciones: [
+        "nombre": "Avenged Sevenfold",
+        "popularidad": 50,
+        "canciones": [
           {
-            nombre: "Hail to the king",
-            popularidad: 60
+            "nombre": "Hail to the king",
+            "popularidad": 60
           },
           {
-            nombre: "Nightmare",
-            popularidad: 30
+            "nombre": "Nightmare",
+            "popularidad": 30
           },
           {
-            nombre: "Seize the day",
-            popularidad: 10
+            "nombre": "Seize the day",
+            "popularidad": 10
           }
         ]
       }
     ]
   },
   {
-    nombre: "Pop",
-    popularidad: 50,
-    artistas: [
+    "nombre": "Pop",
+    "popularidad": 50,
+    "artistas": [
       {
-        nombre: "Un artista de pop",
-        popularidad: 50,
-        canciones: [
+        "nombre": "Un artista de pop",
+        "popularidad": 50,
+        "canciones": [
           {
-            nombre: "Cancion de pop",
-            popularidad: 60
+            "nombre": "Cancion de pop",
+            "popularidad": 60
           },
           {
-            nombre: "Cancion de pop",
-            popularidad: 30
+            "nombre": "Cancion de pop",
+            "popularidad": 30
           },
           {
-            nombre: "Cancion de pop",
-            popularidad: 10
+            "nombre": "Cancion de pop",
+            "popularidad": 10
           }
         ]
       },
       {
-        nombre: "Otro artista de pop",
-        popularidad: 50,
-        canciones: [
+        "nombre": "Otro artista de pop",
+        "popularidad": 50,
+        "canciones": [
           {
-            nombre: "Cancion de pop",
-            popularidad: 60
+            "nombre": "Cancion de pop",
+            "popularidad": 60
           },
           {
-            nombre: "Cancion de pop",
-            popularidad: 30
+            "nombre": "Cancion de pop",
+            "popularidad": 30
           },
           {
-            nombre: "Cancion de pop",
-            popularidad: 10
+            "nombre": "Cancion de pop",
+            "popularidad": 10
           }
         ]
       }
